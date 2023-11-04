@@ -1,4 +1,5 @@
-    "nodes": [
+{
+"nodes": [
         {
             "name": "Asia1",
             "url": "89.233.104.120",
@@ -59,13 +60,5 @@
             "fee": "0.0",
             "proxy_url": "frank-rezan"
         }
-    ],
-    "apis": [
-        {
-            "url": "https://hugin-api.novastack.org",
-            "name": "Novastack Hugin API",
-            "description": "High Performance Hugin API Powered by Novastack Hosting"
-        }
-      ],
-    "hugin": [
     ]
+}
