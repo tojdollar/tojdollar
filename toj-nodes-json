@@ -1,165 +1,71 @@
-{
-  "nodes": [
-    {
-      "name": "Aardvark",
-      "url": "sync.tippyturtle.com",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Adam",
-      "url": "175.34.176.60",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "AT POOL PARTY",
-      "url": "node.atpool.party",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "chaosakos-cz",
-      "url": "trtl.chaosakos.xyz",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Crappyrules - America",
-      "url": "turtle.imhard4.men",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Cuvéebits - Czech Republic",
-      "url": "publicnode.ydns.eu",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Cuvéebits - Romania",
-      "url": "46.214.70.196",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Cuvéebits - United Kingdom",
-      "url": "cuveetrtl.czech.cloud",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "EU - Turtlepool public nodes - 10TRTL Fee",
-      "url": "node.turtlepool.space",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "FastPooL.XyZ EU node - 10TRTL Fee",
-      "url": "fastpool.xyz",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "FastPooL.XyZ US node - 10TRTL Fee",
-      "url": "us.fastpool.xyz",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "greywolf Germany",
-      "url": "turtlenode.co",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "HarryGames Node [UK]",
-      "url": "trtl.harry.games",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Hashvault.pro turtle node",
-      "url": "nodes.hashvault.pro",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Ideas2Reality public Turtlecoin node - Germany",
-      "url": "turtlenode.i2r.tech",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Panther Web Services - TRTL Node [US]",
-      "url": "trtl.sohamb03.me",
-      "port": 2082,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Professor L's TRTL Node",
-      "url": "trtl.profl.io",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "PUBLIC SSL TurtleNode NET",
-      "url": "public.turtlenode.net",
-      "port": 443,
-      "ssl": true,
-      "cache": false
-    },
-    {
-      "name": "PUBLIC TurtleNode NET",
-      "url": "public.turtlenode.net",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Pubnodes",
-      "url": "trtl.pubnodes.com",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "TurtlePay - Load Balancer",
-      "url": "node.turtlepay.io",
-      "port": 443,
-      "ssl": true,
-      "cache": false
-    },
-    {
-      "name": "Vmi Turtle Node",
-      "url": "213.136.86.129",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Yertle Turtle Node",
-      "url": "5.196.72.150",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    }
-  ]
-}
+    "nodes": [
+        {
+            "name": "Asia1",
+            "url": "89.233.104.120",
+            "port": 11556,
+            "ssl": false,
+            "cache": false,
+            "version": "1.5.0",
+            "fee": "0.00",
+            "proxy_url": "asia1"
+        },
+        {
+            "name": "Privacy Mine",
+            "url": "privacymine.net",
+            "port": 11556,
+            "ssl": false,
+            "cache": false,
+            "version": "1.5.0",
+            "fee": "0.00",
+            "proxy_url": "privacymine"
+        },
+        {
+            "name": "Seed Six",
+            "url": "seed6.tojdollar.com",
+            "port": 11556,
+            "ssl": true,
+            "cache": false,
+            "version": "1.5.0",
+            "fee": "0.00",
+            "proxy_url": "privacymine"
+        },
+        {
+            "name": "TojDDNS",
+            "url": "toj.ddns.net",
+            "port": 11556,
+            "ssl": false,
+            "cache": false,
+            "version": "1.1.1",
+            "fee": "0.1",
+            "proxy_url": "TechyNode"
+        },
+        {
+            "name": "BackupHiva",
+            "url": "104.225.221.106",
+            "port": 11556,
+            "ssl": false,
+            "cache": false,
+            "version": "1.1.1",
+            "fee": "0.0",
+            "proxy_url": "hiva"
+        },
+        {
+            "name": "Europe 1",
+            "url": "209.182.238.158",
+            "port": 11556,
+            "ssl": true,
+            "cache": false,
+            "version": "1.5.0",
+            "fee": "0.0",
+            "proxy_url": "frank-rezan"
+        }
+    ],
+    "apis": [
+        {
+            "url": "https://hugin-api.novastack.org",
+            "name": "Novastack Hugin API",
+            "description": "High Performance Hugin API Powered by Novastack Hosting"
+        }
+      ],
+    "hugin": [
+    ]
